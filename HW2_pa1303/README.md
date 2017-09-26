@@ -1,1 +1,1 @@
-For HW2 part 1 I worked with Sarah, Charlie, Matt, Jack, and Dana. Jack helped with setting the code to grab the api. Sarah, Dana, and I worked on understanding the structure of the dataset for part 1 and part 2.
+For HW2 part 1 I worked with Sarah, Charlie, Matt, Jack, and Dana. Jack and Charlie helped with setting up the code to grab the api. Matt, Sarah, Dana, and I worked on understanding the structure of the dataset for part 1 and then I continued to work with Dana and Sarah on part 2.
