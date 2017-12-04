@@ -6,3 +6,8 @@ I've looked at your dataset and your plot and see that its reflects the ratio of
 
 Best,
 Prince
+
+# FBB feedback
+
+Hi Prince, good suggestion on the scale, and also on the ambiguity of Vehicle 1. Where you say "ratio" you should say "fraction": it would be ratio if the data were normalized, thus the total number would be 1 and the length of the yellow bar would in fact represent a ratio. Fraction is generally a more vague term, so although what is plotted in both cases is absolute numbers, you can say fraction to indicate that the relative lenght of the bars is proportional. Very good point about the log scale modifying the intended perception! However given the large number plotting in natural scale would make the DUI accidents fraction too small to see (or to see differences in it). What should be done is probably plot the total number of accidents and the fraction due to DUI in two separate plots. Side by side may also work, but the scales would have to be different, so having a scale on the left for the tot number of accident, from 0 to ~50,000 - possibly in log scale, and a scale on the right for the fraction of DUI accidents, the latter would need to go from 0 to ~0.001, given the number
+
