@@ -1,0 +1,1 @@
+This assignment was about clustering time series data based on number of establishments, For this homework I worked mostly with Jack but also with Dana, Rebecca, Emily, And Matt.

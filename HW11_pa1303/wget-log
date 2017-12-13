@@ -1,0 +1,41 @@
+--2017-12-10 20:44:15--  ftp://ftp.census.gov/Econ2001_And_Earlier/CBP_CSV/zbp00totals.zip
+           => “zbp00totals.zip”
+Resolving ftp.census.gov... 148.129.75.35, 2610:20:2010:a09:1000:0:9481:4b23
+Connecting to ftp.census.gov|148.129.75.35|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2017-12-10 20:49:21--  ftp://ftp.census.gov/Econ2001_And_Earlier/CBP_CSV/zbp00totals.zip
+  (try: 2) => “zbp00totals.zip”
+Connecting to ftp.census.gov|148.129.75.35|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2017-12-10 20:54:24--  ftp://ftp.census.gov/Econ2001_And_Earlier/CBP_CSV/zbp00totals.zip
+  (try: 3) => “zbp00totals.zip”
+Connecting to ftp.census.gov|148.129.75.35|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /Econ2001_And_Earlier/CBP_CSV ... done.
+==> SIZE zbp00totals.zip ... 628434
+==> PASV ... done.    ==> RETR zbp00totals.zip ... done.
+Length: 628434 (614K) (unauthoritative)
+
+     0K .......... .......... .......... .......... ..........  8%  572K 1s
+    50K .......... .......... .......... .......... .......... 16% 1.29M 1s
+   100K .......... .......... .......... .......... .......... 24% 2.67M 0s
+   150K .......... .......... .......... .......... .......... 32% 1.29M 0s
+   200K .......... .......... .......... .......... .......... 40% 1.25M 0s
+   250K .......... .......... .......... .......... .......... 48% 2.52M 0s
+   300K .......... .......... .......... .......... .......... 57% 1.32M 0s
+   350K .......... .......... .......... .......... .......... 65% 1.26M 0s
+   400K .......... .......... .......... .......... .......... 73% 2.56M 0s
+   450K .......... .......... .......... .......... .......... 81% 1.29M 0s
+   500K .......... .......... .......... .......... .......... 89% 2.43M 0s
+   550K .......... .......... .......... .......... .......... 97% 1.23M 0s
+   600K .......... ...                                        100%  228M=0.4s
+
+2017-12-10 20:54:25 (1.39 MB/s) - “zbp00totals.zip” saved [628434]
+
